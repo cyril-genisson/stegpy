@@ -91,6 +91,4 @@ elif choix == '2':
 else:
     print("Le choix n'est pas valide.")
     print("Fin du programme.")
-    return 1
-return 0
-
+    
